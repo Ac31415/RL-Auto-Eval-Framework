@@ -21,3 +21,6 @@ We design an existing automated evaluation framework so that the user can input 
 
 <img src="https://github.com/Ac31415/RL-Auto-Eval-Framework/blob/main/figs/SimAveRewardsTraining.png" width="600" height="400">
 <br/><br/>
+
+<img src="https://github.com/Ac31415/RL-Auto-Eval-Framework/blob/main/figs/PPO_100_Runs_Training.png" width="600" height="400">
+<br/><br/>
