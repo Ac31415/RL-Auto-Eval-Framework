@@ -1,1 +1,1 @@
-# RL-Auto-Eval-Framework
+# Autonomous Robot Goal Seeking and Collision Avoidance In the Physical World: An Automated Learning and Evaluation Framework based on PPO Method
